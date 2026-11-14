@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# PyCharm / IDE
+.idea/
+
+# YOLO training outputs
+runs/
+
+# Model weights
+*.pt
+weights/
+
+# Datasets and generated images
+dataset/
+reeses_dataset/
+test_dataset/
